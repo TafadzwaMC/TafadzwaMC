@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **tafadzwa11chigwada08@gmail.com**
 
-- ⚡ Fun fact **I have a crippling fear of heights!**
+- ⚡ Fun fact **I'm still looking for that missing semicolon XD!**
 
 <img align="right" alt="Coding" width="380" src="https://d2908q01vomqb2.cloudfront.net/9109c85a45b703f87f1413a405549a2cea9ab556/2020/07/28/social_certification_1024x512.png">
 
