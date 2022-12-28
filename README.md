@@ -1,9 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Tafadzwa Chigwada</h1>
-<h3 align="center">A passionate AWS Certified Cloud Practitioner and junior data analyst constantly improving my code and building serverless architecture.</h3>
-<br/>
+<h2 align="center">Hi 👋, I'm Tafadzwa Chigwada</h2>
+<h3 align="left">A passionate AWS Certified Cloud Practitioner and junior data analyst constantly telling stories with data and building serverless architecture.</h3>
 
-- 🔭 I’m currently pursuing my AWS Solutions Architect ssociate certification and Microsoft Power BI Analyst Certification**
+- 🔭 I’m currently pursuing my AWS Solutions Architect Associate certification and Microsoft Power BI Analyst Certification**
 
 - 🌱 I’m currently learning Exploratory Data Analysis in Python and SQL
 
