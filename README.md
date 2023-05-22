@@ -8,4 +8,4 @@
 
 - 🤝 I love  SQL, Power BI, Python and telling stories with data.
 
-- 📫 How to reach me **tafadzwa11chigwada08@gmail.com**
+- 📫 How to reach me **chigwada.tafadzwa.m@gmail.com**
