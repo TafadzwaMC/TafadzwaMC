@@ -1,6 +1,6 @@
 
 <h2 align="center">Hi 👋, I'm Tafadzwa Chigwada</h2>
-<h3 align="left">A passionate AWS Certified Cloud Practitioner and data scientist.</h3>
+<h3 align="left">A passionate AWS Certified Cloud Practitioner and Data Scientist.</h3>
 
 - 🌱 I’m currently exploring builiding machine learning models
 
