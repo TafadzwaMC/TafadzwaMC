@@ -21,5 +21,5 @@
 </p>
 
 <p>
- I am the founder of **Generation-ALL in Cloud and Data**. A platform to share opportunities and facilitate networking for individuals at all levels in cloud computing and data science. Whether you're a beginner or an experienced professional, Generation-ALL in Cloud and Data is a space for growth, learning, and collaboration
+ I am the founder of <strong>Generation-ALL in Cloud and Data</strong>. A platform to share opportunities and facilitate networking for individuals at all levels in cloud computing and data science. Whether you're a beginner or an experienced professional, Generation-ALL in Cloud and Data is a space for growth, learning, and collaboration
 </p>
