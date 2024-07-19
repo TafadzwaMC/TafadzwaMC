@@ -20,7 +20,6 @@
   I am a self-Taught Data Scientist and AWS Certified Cloud Practitioner. My journey in data science and cloud computing is self-driven. I enjoy sharing my knowledge and experiences to help others navigate these exciting fields.
 </p>
 
-<br>
 <p>
  I am the founder of **Generation-ALL in Cloud and Data**. A platform to share opportunities and facilitate networking for individuals at all levels in cloud computing and data science. Whether you're a beginner or an experienced professional, Generation-ALL in Cloud and Data is a space for growth, learning, and collaboration
 </p>
