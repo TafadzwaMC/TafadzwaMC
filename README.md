@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tafadzwa</h1>
-<h3 align="center">An AWS Certified Cloud Practitoner and Data Scientist</h3>
+<h3 align="center">An AWS Cloud Practitoner and self-taught Data Scientist</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tafadzwa-chigwada/">
@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  I am a self-taught Data Scientist and AWS Certified Cloud Practitioner. I enjoy sharing my knowledge and experiences to help others navigate these exciting fields.
+  A lover of data and sharing my knowledge and experiences to help others navigate these exciting fields.
 </p>
 
 <p>
