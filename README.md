@@ -17,7 +17,7 @@
 </p>
 
 <p>
-  I am a self-Taught Data Scientist and AWS Certified Cloud Practitioner. My journey in data science and cloud computing is self-driven. I enjoy sharing my knowledge and experiences to help others navigate these exciting fields.
+  I am a self-taught Data Scientist and AWS Certified Cloud Practitioner. I enjoy sharing my knowledge and experiences to help others navigate these exciting fields.
 </p>
 
 <p>
