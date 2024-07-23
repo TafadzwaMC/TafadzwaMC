@@ -21,5 +21,5 @@
 </p>
 
 <p>
- I am the founder of <strong>Generation-ALL in Data and Cloud</strong>. An inclusive platform to help navigate cloud computing and data whether you're a beginner or an experienced professional.
+ I am the founder of <a href="https://linktr.ee/genall_data_cloud"><strong>Generation-ALL In Cloud and Data</strong></a>. An inclusive platform to help navigate cloud computing and data whether you're a beginner or an experienced professional.
 </p>
