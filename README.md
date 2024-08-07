@@ -11,9 +11,6 @@
   <a href="https://www.tiktok.com/@genz_in_data">
     <img src="https://img.shields.io/badge/TikTok-Profile-informational?style=flat&logo=tiktok&logoColor=white&color=000000" alt="TikTok Badge"/>
   </a>
-  <a href="https://chigwadatafadzwam.wixsite.com/tafadzwa-chigwada">
-    <img src="https://img.shields.io/badge/Personal_Website-Visit-informational?style=flat&logo=internet-explorer&logoColor=white&color=1F8AC8" alt="Personal Site Badge"/>
-  </a>
 </p>
 
 <p>
