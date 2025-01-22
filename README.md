@@ -5,12 +5,6 @@
   <a href="https://www.linkedin.com/in/tafadzwa-chigwada/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Vaed1so8KMqohmuaJ81y">
-    <img src="https://img.shields.io/badge/WhatsApp-Channel-informational?style=flat&logo=whatsapp&logoColor=white&color=25D366" alt="WhatsApp Badge"/>
-  </a>
-  <a href="https://www.tiktok.com/@genz_in_data">
-    <img src="https://img.shields.io/badge/TikTok-Profile-informational?style=flat&logo=tiktok&logoColor=white&color=000000" alt="TikTok Badge"/>
-  </a>
 </p>
 
 <p>
