@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  I am passionate about leveraging data and cloud technologies to create innovative solutions. Currently, I am exploring the integration of machine learning (ML) and artificial intelligence (AI) in the health-tech space to improve healthcare delivery and patient outcomes.
+ Currently, I am exploring the integration of machine learning (ML) and artificial intelligence (AI) in the health-tech space to improve healthcare delivery and patient outcomes.
 </p>
 
 <p>
